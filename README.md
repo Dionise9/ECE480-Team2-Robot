@@ -57,8 +57,6 @@ You can also run just ObjectDetection.py on any system, as long as both numpy an
 
 The Arduino code allows the speed of the conveyor belt to be controlled.
 
-The conveyor belt system needs improvment. It still sticks after rebuilding it.
-
 ## Links
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLnDNTc2u1OkN70uiq_mDI1dUAa3VBpEik)
 
