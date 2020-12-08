@@ -33,10 +33,10 @@ This portion includes four modules. Here are their basic functions:
 To begin to run it on this specific pi you must first activate the OpenCV python environment.
 To do this run the following commands on the terminal from the home directory:
 
-```{r, engine='sh', count_lines}
-source OpenCV-master-pi3/bin/activate
-cd SilverwareDetection/
-python3 SystemMain.py
+```{r, engine='pyhton', count_lines}
+$ source OpenCV-master-pi3/bin/activate
+$ cd SilverwareDetection/
+$ python3 SystemMain.py
 ```
 $ source OpenCV-master-pi3/bin/activate
 $ cd SilverwareDetection/
