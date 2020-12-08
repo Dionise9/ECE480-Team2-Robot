@@ -33,17 +33,17 @@ This portion includes four modules. Here are their basic functions:
 To begin to run it on this specific pi you must first activate the OpenCV python environment.
 To do this run the following commands on the terminal from the home directory:
 
-$ source OpenCV-master-pi3/bin/activate
-$ cd SilverwareDetection/
-$ python3 SystemMain.py
+\$ source OpenCV-master-pi3/bin/activate
+\$ cd SilverwareDetection/
+\$ python3 SystemMain.py
 
 Also it is worth noting you can configure the pi to use SSH, along with Putty, XLaunch, and WinSCP. This may be
 easier than using built in editors and the monitor to code on.
 
 If you want to run this on your own pi all you need is a PiCamera, pi (preferably 4), and a few pip installs
 
-$ pip install numpy
-$ pip install opencv-python
+\$ pip install numpy
+\$ pip install opencv-python
 
 You can also run just ObjectDetection.py on any system, as long as both numpy and opencv-python are installed
 
