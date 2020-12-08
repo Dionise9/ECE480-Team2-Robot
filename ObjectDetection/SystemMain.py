@@ -4,14 +4,11 @@
 # Main system controller
 
 import time
-import picamera
 import picamera.array
 import cv2
 import numpy as np
-import io
-import ObjectDetection
-import ObjectTracking
-import ServoController
+from ObjectDetection import ObjectTracking, ObjectDetection
+
 # Lots of imports
 
 # Init cameras
